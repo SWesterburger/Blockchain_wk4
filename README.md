@@ -12,7 +12,7 @@ How to participate in my ICO:
 
 5) if you type beneficiary's account address into the balance file, you will see how many tockens are their.
 
-6) Once the time period for the ICO has expired, and the raise has been finalized, you can now trade your tokens
+6) Once the time period for the ICO has expired in 24 weeks from today (8/15/2020), and the raise has been finalized, you can now trade your tokens
 
 7) I have 18 decimals on the coin which is named CorgiCoin with a symbol of CRGI.  The address for the coin is 0x3709950e24aaCC593efc43dB670D63be5d6EDDe7
 
